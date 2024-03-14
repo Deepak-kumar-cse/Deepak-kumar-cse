@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://Somashree-7205.io)
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif](https://miro.medium.com/v2/resize:fit:1358/1*oUAAR9fnsmpstFhqmZZ55g.gif))](https://Somashree-7205.io)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
