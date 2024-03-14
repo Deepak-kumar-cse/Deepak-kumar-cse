@@ -1,4 +1,4 @@
-[![MasterHead]([[https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif](https://miro.medium.com/v2/resize:fit:1358/1*oUAAR9fnsmpstFhqmZZ55g.gif](https://camo.githubusercontent.com/a4cb3bf7a2f270705574367dc8117b6f3685a21c25787b967ea2f831c7efdbee/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30322f30303038362d6465736b2d616e696d2d76302e332e676966)))](https://Somashree-7205.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://Somashree-7205.io)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
