@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dasca.org/content/Images/main/insights-era.gif)]" alt="Deepak Kumar">
+[![MasterHead](https://www.dasca.org/content/Images/main/insights-era.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
