@@ -1,4 +1,8 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif)](https://Somashree-7205.io)
+
+<p align="center">
+  <img src="(https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif)" alt="Deepak Kumar">
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
