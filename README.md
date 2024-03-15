@@ -1,7 +1,5 @@
+[![MasterHead](https://www.dasca.org/content/Images/main/insights-era.gif)]" alt="Deepak Kumar">
 
-<p align="center">
-  <img src="[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)]" alt="Deepak Kumar">
-</p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
