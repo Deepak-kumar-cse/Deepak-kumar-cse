@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.dasca.org/content/Images/main/insights-era.gif" alt="Animated GIF" width="200">
+  <img src="https://www.dasca.org/content/Images/main/insights-era.gif" alt="Animated GIF" width="100">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
