@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif)" alt="Deepak Kumar">
+  <img src="[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)]" alt="Deepak Kumar">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
