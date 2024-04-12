@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Deepak+Kumar..😇;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h2 align="center">A passionate Data Scientist from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somashree-7205&label=Profile%20views&color=0e75b6&style=flat" alt="somashree-7205" /> </p>
 
