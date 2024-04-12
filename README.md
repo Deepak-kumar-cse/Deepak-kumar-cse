@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://www.dasca.org/content/Images/main/insights-era.gif" width="400">
 </p>
-
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somashree-7205&label=Profile%20views&color=0e75b6&style=flat" alt="somashree-7205" /> </p>
